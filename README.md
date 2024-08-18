@@ -44,9 +44,9 @@ Your main tasks will be to use the Geoapify API and the geoViews Python library 
 ![Alt text](output_data/Ideal_vacation.png)
 
 # Resources
-Kourt Bailey(TA)- env variables + hvplots usage
-Brittany Douville, Kevin Khan - help with defining cell 10-  VacationPy
-EDX Bootcamps prompt used for README and startercode 
+- Kourt Bailey(TA)- env variables + hvplots usage
+- Brittany Douville, Kevin Khan - help with defining cell 10-  VacationPy
+- EDX Bootcamps prompt used for README and startercode 
 
 Sites reviewed 
 - https://pypi.org/project/citipy/
